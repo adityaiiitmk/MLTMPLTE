@@ -69,5 +69,5 @@ To start a new ML project using this template, follow these steps:
 cd MLTMPLTE
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-python3 template.py
+python template.py
 ```
